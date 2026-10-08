@@ -1,0 +1,35 @@
+sintoma_1,sintoma_2,doenca_associada
+dor no peito,aperto no torax,Infarto Agudo do Miocardio
+aperto no peito,pressao no peito,Infarto Agudo do Miocardio
+braco esquerdo,dor que irradia,Infarto Agudo do Miocardio
+suor frio,sudorese,Infarto Agudo do Miocardio
+enjoo,nausea,Infarto Agudo do Miocardio
+dor na mandibula,dor esmagadora,Infarto Agudo do Miocardio
+esforco fisico,piora com esforco,Angina
+passa quando eu descanso,melhora com repouso,Angina
+dor ao subir escada,dor ao caminhar,Angina
+queimacao no peito,peso no peito,Angina
+cansaco constante,fadiga,Insuficiencia Cardiaca
+cansado o tempo todo,cansaco extremo,Insuficiencia Cardiaca
+falta de ar,dificuldade para respirar,Insuficiencia Cardiaca
+sem folego,sem ar,Insuficiencia Cardiaca
+dois travesseiros,acordo a noite,Insuficiencia Cardiaca
+inchad,inchaco,Insuficiencia Cardiaca
+engordei rapido,ganho de peso,Insuficiencia Cardiaca
+tosse seca,tosse a noite,Insuficiencia Cardiaca
+palpitac,coracao dispara,Arritmia
+batimentos irregulares,coracao falhando,Arritmia
+coracao acelerado,taquicardia,Arritmia
+coracao pulando,batimento descompassado,Arritmia
+pressao alta,pressao anda alta,Hipertensao Arterial
+dor de cabeca na nuca,dor na nuca,Hipertensao Arterial
+zumbido no ouvido,visao embacada,Hipertensao Arterial
+sangramento no nariz,cabeca latejando,Hipertensao Arterial
+febre,dor no peito com febre,Pericardite
+piora quando respiro fundo,dor ao respirar,Pericardite
+inclino para frente,melhora sentado,Pericardite
+tontura,vertigem,Sincope / Hipotensao
+quase desmaiei,desmaio,Sincope / Hipotensao
+vista escurece,visao escura,Sincope / Hipotensao
+levantei,ficar de pe,Sincope / Hipotensao
+pressao baixa,pressao caiu,Sincope / Hipotensao

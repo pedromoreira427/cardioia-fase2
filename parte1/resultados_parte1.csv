@@ -1,0 +1,11 @@
+paciente,frase,sintomas,diagnostico,confianca,alternativas
+1,Há dois dias estou com uma dor no peito que piora quando faço esforço físico e passa quando eu descanso.,"dor no peito, esforco fisico, passa quando eu descanso",Angina,0.67,Infarto Agudo do Miocardio
+2,"Sinto cansaço constante há uma semana, mesmo depois de descansar, e meus tornozelos ficam inchados no fim do dia.","cansaco constante, inchad",Insuficiencia Cardiaca,1.0,
+3,"Desde ontem à noite sinto um aperto no tórax que desce para o braço esquerdo, com suor frio e enjoo.","aperto no torax, braco esquerdo, enjoo, suor frio",Infarto Agudo do Miocardio,1.0,
+4,Há umas três semanas meu coração dispara do nada e fico com palpitações até deitado vendo TV.,"coracao dispara, palpitac",Arritmia,1.0,
+5,"Faz um mês que fico sem fôlego até para tomar banho e me sinto cansado o tempo todo, já faltei duas vezes no trabalho.","sem folego, cansado o tempo todo",Insuficiencia Cardiaca,1.0,
+6,Hoje de manhã tive uma tontura forte e quase desmaiei quando levantei da cama.,"levantei, quase desmaiei, tontura",Sincope / Hipotensao,1.0,
+7,"Minha pressão anda alta há meses e tenho dor de cabeça na nuca quase todo dia, o que atrapalha meu serviço.","dor de cabeca na nuca, pressao anda alta",Hipertensao Arterial,1.0,
+8,Há quatro dias estou com febre e uma dor no peito que piora quando respiro fundo e alivia quando me inclino para frente.,"dor no peito, piora quando respiro fundo, inclino para frente, febre",Pericardite,0.75,Infarto Agudo do Miocardio
+9,"Há duas semanas acordo à noite sem ar, preciso dormir com dois travesseiros e engordei rápido com inchaço nas pernas.","acordo a noite, sem ar, inchaco, dois travesseiros, engordei rapido",Insuficiencia Cardiaca,1.0,
+10,"Há dez dias sinto o coração falhando, com batimentos irregulares, e às vezes a vista escurece quando estou no caixa da loja.","coracao falhando, batimentos irregulares, vista escurece",Arritmia,0.67,Sincope / Hipotensao
