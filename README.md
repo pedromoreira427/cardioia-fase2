@@ -105,7 +105,10 @@ pip install pandas scikit-learn matplotlib jupyter
 jupyter notebook
 ```
 
-Abra os notebooks dentro de `parte1/` e `parte2/` e execute todas as células (eles leem os arquivos da própria pasta). Também funciona no Google Colab fazendo upload do notebook e do arquivo de dados correspondente.
+Abra os notebooks dentro de `parte1/` e `parte2/` e execute todas as células (eles leem os arquivos da própria pasta). Ou abra direto no Google Colab, sem instalar nada (*Ambiente de execução > Executar tudo*):
+
+- [Parte 1 no Colab](https://colab.research.google.com/github/pedromoreira427/cardioia-fase2/blob/main/parte1/parte1_extracao.ipynb)
+- [Parte 2 no Colab](https://colab.research.google.com/github/pedromoreira427/cardioia-fase2/blob/main/parte2/parte2_classificador.ipynb)
 
 ---
 
